@@ -1,0 +1,6 @@
+{
+    "d_token" : "NDI0MTg2MzQ4MDI3NzcyOTI4.DZpI3w.3jikSZETCGzsWzGso4iJ-RBYlD8",
+	"adminID" : "274006950407307266",
+    "prefix" : ".",
+	"passes" : 1 //can be increased to reduce packetloss at the expense of upload bandwidth, 4-5 should be lossless at the expense of 4-5x upload
+}
